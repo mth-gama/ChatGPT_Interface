@@ -10,7 +10,7 @@ Projeto utilizando a API da OpenAI de geração de texto com linguage neural
 
 ## Screenshot
 
-![imagem da interface](.\img\Screenshot.png)
+![imagem da interface](https://github.com/mth-gama/ChatGPT_Interface/blob/main/img/Screenshot.png)
 
 ## Author
 
